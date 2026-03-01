@@ -1,9 +1,9 @@
-# FUTURE_ML_03
+# FUTURE_ML_04
   Customer Churn Prediction (E-commerce)
 CIN: FIT/FEB26/ML5800
 
    Project Overview
-This project (Task 3) focuses on Predictive Analytics to identify customers at risk of leaving an e-commerce platform. By merging customer behavior data with historical churn results, I developed a model to forecast future retention.
+This project (Task 4) focuses on Predictive Analytics to identify customers at risk of leaving an e-commerce platform. By merging customer behavior data with historical churn results, I developed a model to forecast future retention.
 
    Data Insights
 Churn Rate Analysis : I first calculated the distribution of active vs. churned customers to understand the dataset balance.
@@ -16,6 +16,6 @@ Modeling : Utilized a Random Forest Classifier to handle complex numerical patte
 Evaluation : Generated a Confusion Matrix to measure the Precision and Recall of churn predictions.
 
  Repository Files
-FUTURE_ML_03.ipynb: Full Python implementation, EDA, and model evaluation.
+FUTURE_ML_04.ipynb: Full Python implementation, EDA, and model evaluation.
 ecommerce_customer_features.csv: Customer behavior data .
 ecommerce_customer_targets.csv: Actual churn labels (Yes/No).
